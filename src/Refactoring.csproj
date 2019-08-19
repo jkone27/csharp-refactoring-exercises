@@ -6,4 +6,8 @@
     <RootNamespace>refactoring_samples</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MissingAbstraction\MissingAbstraction.csproj" />
+  </ItemGroup>
+
 </Project>

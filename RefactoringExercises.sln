@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingAbstraction", "Missi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrongAbstraction", "WrongAbstraction\WrongAbstraction.csproj", "{0E58F64B-5C43-4460-BCE8-2569887821AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperfectZombieObjectMutants", "ImperfectZombieObjectMutants\ImperfectZombieObjectMutants.csproj", "{D14B5CAD-65E9-4DF5-B517-CB226AEF6022}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SadObjects", "ImperfectZombieObjectMutants\SadObjects.csproj", "{D14B5CAD-65E9-4DF5-B517-CB226AEF6022}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
