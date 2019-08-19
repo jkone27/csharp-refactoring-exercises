@@ -3,19 +3,6 @@ using MissingAbstraction.PublicBoolProperty.Before;
 
 namespace Refactoring
 {
-    //non respected SRP : TODO
-    public class SaltAndPepper
-    {
-        public SaltAndPepper()
-        {
-
-        }
-
-        public void AddSaltAndPepper()
-        {
-
-        }
-    }
 
     class Program
     {
